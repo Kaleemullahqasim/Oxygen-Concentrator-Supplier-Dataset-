@@ -1,7 +1,5 @@
 
-# Project Title
-
-Oxygen Concentrator Supplier and Listing Data
+# Oxygen Concentrator Supplier and Listing Data
 
 
 
